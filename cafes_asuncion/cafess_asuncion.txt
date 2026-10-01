@@ -1,0 +1,6 @@
+Nombre,Direccion,Precio_Min_PYG,Precio_Max_PYG,Calificacion,Latitud,Longitud
+"El Café de Acá","Teniente Héctor Vera 1390, Asunción",40000,100000,4.6,-25.2925,-57.5801
+"Café Consulado","O'Leary esq. Palma 299, Asunción",20000,60000,4.5,-25.2818,-57.6368
+"Kaffe'i - Coffee Roasters","Palma 438, Asunción",20000,40000,4.6,-25.2828,-57.6385
+"Coffee Cat","Lillo esq. Malutín, Asunción",20000,100000,4.5,-25.2952,-57.5760
+"Typica Café Paraguay","Agustín Pío Barrios 1337, Asunción",60000,80000,4.7,-25.2839,-57.5701

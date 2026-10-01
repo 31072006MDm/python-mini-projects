@@ -4,28 +4,15 @@
 
 ---
 
-## 🥓 Traductor: Samgyeopsal con Mandioca 🍠
+## 📂 Proyectos disponibles
 
-> *Hola, este es un miniproyecto que hice mientras practicaba Python y la biblioteca Tkinter por primera vez. Es un traductor de español a coreano. El nombre «Samgyeopsal con mandioca» proviene de mi gusto por el samgyeopsal (asado coreano de cerdo) y la mandioca, la cual siempre acompaña el asado paraguayo. Recién estoy empezando con la programación.*
+### 1. 🥓 [Traductor: Samgyeopsal con Mandioca](./translator)
+- **Descripción:** Miniproyecto de interfaz gráfica con **Tkinter** para traducir de español a coreano usando `googletrans`.
+- **Carpeta:** [`translator/`](./translator)
 
----
-
-### 📌 Características
-- Interfaz gráfica amigable creada con **Tkinter**.
-- Traducción de texto de **español a coreano** en tiempo real mediante `googletrans`.
-- Indicadores de estado (traducción exitosa o error de conexión).
-
-### 🚀 Instalación y Uso
-
-1. **Instalar dependencias:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Ejecutar la aplicación:**
-   ```bash
-   python translator.py
-   ```
+### 2. ☕ [Mapa de Cafeterías en Asunción](./cafes_asuncion)
+- **Descripción:** Este es un mapa que muestra las 5 mejores cafeterias en asuncion, paraguay, es parte de mi practica para la utilizacion de folium.
+- **Carpeta:** [`cafes_asuncion/`](./cafes_asuncion)
 
 ---
 *Hecho con dedicación y ganas de aprender.* ✨
